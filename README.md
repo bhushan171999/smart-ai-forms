@@ -13,3 +13,6 @@ forms from plain English prompts — no OpenAI API key needed.
 
 ## Links
 - WordPress.org: wordpress.org/plugins/smart-ai-forms-lite/
+- Pro version: smartaiformspro.com
+- Pricing: from $3.99/mo
+
